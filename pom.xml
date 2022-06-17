@@ -27,7 +27,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.68</version><!--1.2.57-->
+            <version>1.2.83</version><!--1.2.57-->
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
